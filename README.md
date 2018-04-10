@@ -10,4 +10,4 @@ We are a reading club interested in topics related to programming languages (PL)
   - machine learning; for example, ML for discovering program invariants
   - synthesis; for example, synthesis of programs from examples or specification
 
-See [Organization](https://github.com/dfava/readingclub/wiki/Organization) for how we plan to hold  meetings and [Aspirational rules](https://github.com/dfava/readingclub/wiki/Aspirational-Rules) for some guidance on participation.
+See [Organization](https://github.com/dfava/readingclub/wiki/Organization) for how we plan to hold  meetings and [Aspirational rules](https://github.com/dfava/readingclub/wiki/Aspirational-Rules) for guidance on participation.
