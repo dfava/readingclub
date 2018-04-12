@@ -7,6 +7,20 @@
 ** Scratch pad
 
 
+- See [[http://www.floc2018.org/fopss/][FOPSS]] [[ http://fopss18.mimuw.edu.pl/programme.html][programme]]
+
+  - Spectral algorithms for automata learning Richard Evans (DeepMind)
+  - Inductive logic programming and deep learning Hado van Hasselt (DeepMind)
+  - Reinforcement learning Nina Gierasimczuk (Technical University of Denmark)
+  - Learning and epistemic modal logic Varun Kanade (University of Oxford)
+  - Statistical learning theory Guy Katz (Stanford University and Hebrew University of Jerusalem)
+  - Verification of machine learning programs Jan Křetínský (Technical University of Munich)
+  - Learning for verification Stephen H. Muggleton (Imperial College London)
+  - Inductive logic programming Doina Precup (McGill University and DeepMind)
+  - Reinforcement learning Dan Roy (University of Toronto)
+  - Bayesian learning James Worrell (University of Oxford)
+  - Computational learning theory 
+
 - suggestion by volker : 
 http://blog.jessriedel.com/2017/07/12/selsam-on-formal-verification-of-machine-learning/
 
