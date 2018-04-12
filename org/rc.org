@@ -1,0 +1,14 @@
+
+
+
+
+* Notes
+
+** Scratch pad
+
+
+- suggestion by volker : 
+http://blog.jessriedel.com/2017/07/12/selsam-on-formal-verification-of-machine-learning/
+
+Developing Bug-Free Machine Learning Systems With Formal Mathematics 
+Daniel Selsam, Percy Liang, David L. Dill
