@@ -1,10 +1,13 @@
-
-
+|-------------------------------------------------------------------+-----------------|
+| Flanagan quadeer: predicate abstraction for software verification | <2018-04-16 Mo> |
+|                                                                   |                 |
 
 
 * Notes
 
 ** Scratch pad
+
+
 
 
 - See [[http://www.floc2018.org/fopss/][FOPSS]] [[ http://fopss18.mimuw.edu.pl/programme.html][programme]]
