@@ -1,6 +1,6 @@
-|-------------------------------------------------------------------+-----------------|
-| Flanagan quadeer: predicate abstraction for software verification | <2018-04-16 Mo> |
-|                                                                   |                 |
+|-----------------------------------------------+-----------------|
+| Inauguration: road-map and procedural matters | <2018-04-16 Mo> |
+|                                               |                 |
 
 
 * Notes
