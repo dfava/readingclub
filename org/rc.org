@@ -8,12 +8,14 @@
 ** Perhaps intesting
 
 - angluin.fisman:learning
+- http://madhu.cs.illinois.edu/CAV15Tutorial/
 
 
 ** Scratch pad
 
 
 
+- http://www.floc2018.org/summit-on-machine-learning/
 
 - See [[http://www.floc2018.org/fopss/][FOPSS]] [[ http://fopss18.mimuw.edu.pl/programme.html][programme]]
 
