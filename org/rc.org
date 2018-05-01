@@ -1,7 +1,12 @@
 |-----------------------------------------------+-----------------|
 | Inauguration: road-map and procedural matters | <2018-04-16 Mo> |
+| AI2, gehr et al, S&P 2018                     | <2018-05-07 Mo> |
 |                                               |                 |
 
+
+* Sessions
+
+** RC 
 
 * Notes
 
