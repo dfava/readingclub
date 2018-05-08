@@ -41,3 +41,5 @@ https://www.youtube.com/watch?v=-A1tVNTHUFw
 
 Developing Bug-Free Machine Learning Systems With Formal Mathematics 
 Daniel Selsam, Percy Liang, David L. Dill
+
+- PAC learning, Leslie Valiant 
