@@ -43,3 +43,5 @@ Developing Bug-Free Machine Learning Systems With Formal Mathematics
 Daniel Selsam, Percy Liang, David L. Dill
 
 - PAC learning, Leslie Valiant 
+
+- TensorFlow: Machine learning on heterogeneous distributed systems
