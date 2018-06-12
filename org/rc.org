@@ -1,6 +1,16 @@
-|-----------------------------------------------+-----------------|
-| Inauguration: road-map and procedural matters | <2018-04-16 Mo> |
-|                                               |                 |
+
+
+* Links 
+ https://github.com/dfava/readingclub/wiki
+
+
+* Meetings
+
+|-----------------------------------------------+------------------|
+| Inauguration: road-map and procedural matters | <2018-04-16 Mo>  |
+| Katz et al: reluplex                          | <2018-05-22 Tue> |
+| Moosavi-Dezfooli et al: DeepFool              | <2018-06-12 Tue> |
+|                                               |                  |
 
 
 * Notes
