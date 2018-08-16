@@ -12,7 +12,7 @@
 | Katz et al: reluplex                          | <2018-05-22 Tue> |
 | Moosavi-Dezfooli et al: DeepFool              | <2018-06-12 Tue> |
 | Example-driven synthesis, popl 16             | <2018-08-31 Fri> |
-
+ 
 
 
 
