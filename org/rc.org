@@ -13,7 +13,7 @@
 | Moosavi-Dezfooli et al: DeepFool                 | <2018-06-12 Tue> |
 | Example-driven synthesis, popl 16                | <2018-08-31 Fri> |
 | Liquid Types (instead of plannedsynthesis paper) | <2018-11-09 Fri> |
-|                                                  |                  |
+| Local & bidirectional type system                |                  |
 
 
 
