@@ -55,3 +55,18 @@ Daniel Selsam, Percy Liang, David L. Dill
 - PAC learning, Leslie Valiant 
 
 - TensorFlow: Machine learning on heterogeneous distributed systems
+
+
+** FlOCS etc
+
+
+
+- https://goo.gl/TsL46P
+
+- https://goo.gl/AGncPX
+
+
+
+
+
+ 
