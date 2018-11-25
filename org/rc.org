@@ -6,14 +6,15 @@
 
 * Meetings
 
-|--------------------------------------------------+------------------|
-| Inauguration: road-map and procedural matters    | <2018-04-16 Mo>  |
-| AI2, gehr et al, S&P 2018                        | <2018-05-07 Mo>  |
-| Katz et al: reluplex                             | <2018-05-22 Tue> |
-| Moosavi-Dezfooli et al: DeepFool                 | <2018-06-12 Tue> |
-| Example-driven synthesis, popl 16                | <2018-08-31 Fri> |
-| Liquid Types (instead of plannedsynthesis paper) | <2018-11-09 Fri> |
-| Local & bidirectional type system                |                  |
+|--------------------------------------------------+------------------+----------------------------------------------------|
+| Inauguration: road-map and procedural matters    | <2018-04-16 Mo>  |                                                    |
+| AI2, gehr et al, S&P 2018                        | <2018-05-07 Mo>  |                                                    |
+| Katz et al: reluplex                             | <2018-05-22 Tue> |                                                    |
+| Moosavi-Dezfooli et al: DeepFool                 | <2018-06-12 Tue> |                                                    |
+| Example-driven synthesis, popl 16                | <2018-08-31 Fri> |                                                    |
+| Liquid Types (instead of plannedsynthesis paper) | <2018-11-09 Fri> |                                                    |
+| Local & bidirectional type systems               | <2018-11-16 Fr>  |                                                    |
+| Report from FLOCS etc: hot topics in ML&AI       | <2018-11-23 Fr>  | - https://goo.gl/TsL46P and  https://goo.gl/AGncPX |
 
 
 
@@ -56,3 +57,18 @@ Daniel Selsam, Percy Liang, David L. Dill
 - PAC learning, Leslie Valiant 
 
 - TensorFlow: Machine learning on heterogeneous distributed systems
+
+
+** FlOCS etc
+
+
+
+- https://goo.gl/TsL46P
+
+- https://goo.gl/AGncPX
+
+
+
+
+
+ 
