@@ -22,6 +22,8 @@
 
 ** Perhaps intesting
 
+- learning symbolic representaton with OGIS, godefroid, talis
+- PAC
 - angluin.fisman:learning
 - http://madhu.cs.illinois.edu/CAV15Tutorial/
 
