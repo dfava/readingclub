@@ -8,7 +8,7 @@
 
 
 | PAC 2: PAC learning, NFL theorem                 | <2019-02-15 Fr>  | --                                                 |
-| PAC 1: PAC learning                              | <2019-02-01 Fr>  |                                                    |
+| ePAC 1: PAC learning                             | <2019-02-01 Fr>  |                                                    |
 |--------------------------------------------------+------------------+----------------------------------------------------|
 | Inauguration: road-map and procedural matters    | <2018-04-16 Mo>  |                                                    |
 | AI2, gehr et al, S&P 2018                        | <2018-05-07 Mo>  |                                                    |
