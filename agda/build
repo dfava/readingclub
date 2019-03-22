@@ -1,0 +1,24 @@
+#!/bin/bash
+opt_engine="--latex-engine=xelatex"
+opt_font="--variable mainfont=\"DejaVu Serif\" --variable monofont=\"DejaVu Sans Mono\""
+pandoc -D latex | sed '/\\documentclass/s/.*/&\ \'$'\n\\\\usepackage{dsfont}/' > tmp_template.latex
+
+if false;
+then
+  cmd="pandoc agda.md -o agda.pdf $opt_engine --template=tmp_template.latex $opt_font"
+  echo $cmd
+  eval $cmd
+fi
+
+
+if true;
+then
+  echo Building slides...
+  sed 's/slidesfalse/slidestrue/' agda.md > tmp1.md
+  sed 's/^geometry:.*/geometry: "paperwidth=12.8cm,paperheight=9.6cm"/' tmp1.md > tmp.md
+  cmd="pandoc tmp.md -o agda_slides.pdf $opt_engine --template=tmp_template.latex $opt_font"
+  echo $cmd
+  eval $cmd
+  #rm -f tmp.md tmp1.md
+  echo  done
+fi
