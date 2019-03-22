@@ -15,6 +15,7 @@ Daniel S. Fava
 
 University of Oslo, Norway
 
+March, 2019
 
 \ifslides
 \pagebreak
@@ -38,7 +39,7 @@ f : A→B
 `f` as a function from a proof `a` of proposition `A` to a proof `f(a)` of `B`  [Brouwer-Heyting-Kolmogorov]
 
 - Types as logical formulas, programs as proofs.
-- "Type `A` is inhabited" means "proposition `A` has a proof."
+- "Type `A` is inhabited" as "proposition `A` has a proof."
 
 \ifslides
 \pagebreak
@@ -61,9 +62,8 @@ Want a language where program, specification, and proofs are all under the same 
 
 ## Dependent types
 
-Richer than simple types.
-
-More closely express program behavior.
+Rich types that 
+more closely express program behavior.
 
 \vspace{12pt}
 
@@ -132,11 +132,11 @@ a ≡ b
 ```
 
 - Normalize (apply definitions) both sides then compare.
-- Equality type is proven with `refl`, which means
-- `refl` is a constructor for the equality type.
+- Equality type is proven with `refl`, in other words,
+    - `refl` is a constructor for the equality type.
 
 
-Many other notions of [equality](https://ncatlab.org/nlab/show/equality)
+Notions of [equality](https://ncatlab.org/nlab/show/equality)
 
 - definitional (intensional)
 - propositional (extensional)
@@ -164,8 +164,10 @@ Many other notions of [equality](https://ncatlab.org/nlab/show/equality)
 TODO: QUESTION: WHY?
 \fi
 
+\iffalse
 \ifslides
 \pagebreak
 \fi
 
 ## Braun trees
+\fi
