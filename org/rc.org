@@ -3,9 +3,12 @@
 * Links 
  https://github.com/dfava/readingclub/wiki
 
-
+ 
 * Meetings
 
+
+| PAC 2: PAC learning, NFL theorem                 | <2019-02-15 Fr>  | --                                                 |
+| ePAC 1: PAC learning                             | <2019-02-01 Fr>  |                                                    |
 |--------------------------------------------------+------------------+----------------------------------------------------|
 | Inauguration: road-map and procedural matters    | <2018-04-16 Mo>  |                                                    |
 | AI2, gehr et al, S&P 2018                        | <2018-05-07 Mo>  |                                                    |
@@ -15,13 +18,15 @@
 | Liquid Types (instead of plannedsynthesis paper) | <2018-11-09 Fri> |                                                    |
 | Local & bidirectional type systems               | <2018-11-16 Fr>  |                                                    |
 | Report from FLOCS etc: hot topics in ML&AI       | <2018-11-23 Fr>  | - https://goo.gl/TsL46P and  https://goo.gl/AGncPX |
-
+|--------------------------------------------------+------------------+----------------------------------------------------|
 
 
 * Notes
 
 ** Perhaps intesting
 
+- learning symbolic representaton with OGIS, godefroid, talis
+- PAC
 - angluin.fisman:learning
 - http://madhu.cs.illinois.edu/CAV15Tutorial/
 
